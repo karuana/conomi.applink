@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "me.conomicorp.conomi.development",
+    "sha256_cert_fingerprints":
+    ["B6:2C:5E:F0:12:30:7B:56:5A:E6:F7:5B:B8:40:E0:BF:68:40:E6:17:17:23:5A:B4:74:83:31:D3:97:17:30:4C"]
+  }
+}]
