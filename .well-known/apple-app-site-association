@@ -7,7 +7,7 @@
             ],
             "components":[
                {
-                  "/":"/",
+                  "/":"*",
                   "comment":"feed home page"
                },
                {
