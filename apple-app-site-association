@@ -1,1 +1,24 @@
-{"applinks":{"apps":[],"details":[{"appID":"U6VV7FMD97.com.navercorp.tapas.ent","paths":["/feed/*","/discover/*","/explore/*","/reserve/*","/businesses/*","/users/*","/reviews/*","/themes/*","/my/*","/collections/*","/profile/*","/tutorial/*"]}]}}
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "U6VV7FMD97.com.navercorp.tapas.ent",
+                "paths": [
+                    "/feed/*",
+                    "/discover/*",
+                    "/explore/*",
+                    "/reserve/*",
+                    "/businesses/*",
+                    "/users/*",
+                    "/reviews/*",
+                    "/themes/*",
+                    "/my/*",
+                    "/collections/*",
+                    "/profile/*",
+                    "/tutorial/*"
+                ]
+            }
+        ]
+    }
+}
