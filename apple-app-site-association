@@ -8,13 +8,6 @@
                    "*",
                    "/*"
                 ]
-            },
-            {
-                "appID": "U6VV7FMD97.com.navercorp.tapas.ent",
-                "paths": [
-                   "*",
-                   "/*"
-                ]
             }
         ]
     }
