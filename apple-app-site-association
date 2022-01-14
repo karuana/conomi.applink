@@ -1,14 +1,63 @@
 {
-    "applinks": {
-        "apps": [],
-        "details": [
-            {
-                "appID": "Z29J673EM9.com.navercorp.tapas.ent",
-                "paths": [
-                   "*",
-                   "/*"
-                ]
-            }
-        ]
-    }
+   "applinks":{
+      "apps":[
+         
+      ],
+      "details":[
+         {
+            "appID":"Z29J673EM9.com.navercorp.tapas.ent",
+            "paths":[
+               "/feed/*",
+               "/discover/*",
+               "/explore/*",
+               "/reserve/*",
+               "/businesses/*",
+               "/users/*",
+               "/reviews/*",
+               "/themes/*",
+               "/my/*",
+               "/collections/*",
+               "/profile/*",
+               "/tutorial/*",
+               "/"
+            ]
+         },
+         {
+            "appID":"9W8HRVNZLS.me.conomicorp.conomi",
+            "paths":[
+               "/feed/*",
+               "/discover/*",
+               "/explore/*",
+               "/reserve/*",
+               "/businesses/*",
+               "/users/*",
+               "/reviews/*",
+               "/themes/*",
+               "/my/*",
+               "/collections/*",
+               "/profile/*",
+               "/tutorial/*",
+               "/"
+            ]
+         },
+         {
+            "appID":"9W8HRVNZLS.me.conomicorp.conomi.local",
+            "paths":[
+               "/feed/*",
+               "/discover/*",
+               "/explore/*",
+               "/reserve/*",
+               "/businesses/*",
+               "/users/*",
+               "/reviews/*",
+               "/themes/*",
+               "/my/*",
+               "/collections/*",
+               "/profile/*",
+               "/tutorial/*",
+               "/"
+            ]
+         }
+      ]
+   }
 }
