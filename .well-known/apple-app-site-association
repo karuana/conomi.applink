@@ -1,14 +1,74 @@
 {
-    "applinks": {
-        "apps": [],
-        "details": [
-            {
-                "appID": "Z29J673EM9.com.navercorp.tapas.ent",
-                "paths": [
-                   "*",
-                   "/*"
-                ]
-            }
-        ]
-    }
+   "applinks":{
+      "details":[
+         {
+            "appIDs":[
+               "Z29J673EM9.com.navercorp.tapas.ent",
+               "9W8HRVNZLS.me.conomicorp.conomi.local",
+               "9W8HRVNZLS.me.conomicorp.conomi"
+            ],
+            "components":[
+               {
+                  "/":"/",
+                  "comment":"feed home page"
+               },
+               {
+                  "/":"/feed/*",
+                  "comment":"feed home page"
+               },
+               {
+                  "/":"/discover/*",
+                  "comment":"discover page"
+               },
+               {
+                  "/":"/explore/*",
+                  "comment":"explore page"
+               },
+               {
+                  "/":"/reserve/*",
+                  "comment":"reserve page"
+               },
+               {
+                  "/":"/businesses/*",
+                  "comment":"store end page"
+               },
+               {
+                  "/":"/users/*",
+                  "comment":"user end page"
+               },
+               {
+                  "/":"/reviews/*",
+                  "comment":"review page"
+               },
+               {
+                  "/":"/themes/*",
+                  "comment":"themes end page"
+               },
+               {
+                  "/":"/my/*",
+                  "comment":"my page"
+               },
+               {
+                  "/":"/collections/*",
+                  "comment":"collections page"
+               },
+               {
+                  "/":"/profile/*",
+                  "comment":"profile edit page"
+               },
+               {
+                  "/":"/tutorial/*",
+                  "comment":"tutorial page"
+               }
+            ]
+         }
+      ]
+   },
+   "webcredentials":{
+      "apps":[
+         "Z29J673EM9.com.navercorp.tapas.ent",
+         "9W8HRVNZLS.me.conomicorp.conomi",
+         "9W8HRVNZLS.me.conomicorp.conomi.local"
+      ]
+   }
 }
