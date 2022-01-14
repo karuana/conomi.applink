@@ -1,4 +1,5 @@
-[{
+[
+{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
@@ -6,4 +7,14 @@
     "sha256_cert_fingerprints":
     ["B6:2C:5E:F0:12:30:7B:56:5A:E6:F7:5B:B8:40:E0:BF:68:40:E6:17:17:23:5A:B4:74:83:31:D3:97:17:30:4C"]
   }
-}]
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "me.conomicorp.conomi",
+    "sha256_cert_fingerprints":
+    ["B5:FD:43:57:B1:1C:26:94:61:09:B1:2F:5C:BD:14:32:0F:24:63:FF:DB:DE:11:D7:7C:9D:07:7F:3B:0D:EF:B7"]
+  }
+}
+]
